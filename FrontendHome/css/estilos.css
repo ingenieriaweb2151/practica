@@ -1,0 +1,26 @@
+body 
+{
+	background-color:gray;
+	margin: 0 auto;
+	max-width:1260px;
+	min-height:1079px;
+}
+body header
+{
+	background: white;
+	display: inline-block;
+	height: 120px;
+	width: 100%;
+
+}
+
+.logo
+{
+ float: right;
+ height: 120px;
+ padding: 7px 0 0 0;	
+}
+.text-tnm
+{
+	vertical-align: middle;
+}
