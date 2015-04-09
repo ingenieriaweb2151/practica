@@ -1,26 +1,56 @@
 body 
 {
-	background-color:gray;
-	margin: 0 auto;
-	max-width:1260px;
-	min-height:1079px;
+	font-size: 16px;
+	margin:0 auto;
+	max-height: 4350px;
+	max-width: 1350px;
 }
 body header
 {
-	background: white;
+	background-color: #F7F7F7;
+	height: 240px;
+	width: 1350px;
+	vertical-align: right;
+}
+body header section article
+{
+
 	display: inline-block;
-	height: 120px;
-	width: 100%;
-
-}
-
-.logo
-{
- float: right;
- height: 120px;
- padding: 7px 0 0 0;	
-}
-.text-tnm
-{
+	margin: -10px 10px 20px 70px;
 	vertical-align: middle;
+
+}
+#logo
+{
+	float: right;
+	display: inline-block;
+}
+#logoSep
+{
+	height: 120px;
+	width: 298px;
+}
+.encabezado
+{
+	height: 120px;
+	width: 1350px;
+}
+
+.tecnologico
+{
+	color: gray;
+	font-family: 'EB Garamond', serif;
+}
+.instituto
+{
+	color: gray;
+	font-family: 'EB Garamond', serif;
+
+}
+.sistemaResidencias
+{
+	text-align: center;
+	color:gray;
+	font-family: 'EB Garamond', serif;
+	float: right; 
 }
