@@ -14,11 +14,20 @@ body header
 }
 body header section article
 {
-
 	display: inline-block;
 	margin: -10px 10px 20px 70px;
 	vertical-align: middle;
+}
+header nav ul
+{
 
+	text-align: center;
+}
+
+header nav ul li
+{
+	color:white;
+	display: inline-block;
 }
 #logo
 {
@@ -53,4 +62,12 @@ body header section article
 	color:gray;
 	font-family: 'EB Garamond', serif;
 	float: right; 
+}
+.sistema
+{
+	color: gray;
+	text-align: middle;
+	font-family: 'EB Garamond', serif;
+	font-weight: bold;
+
 }
